@@ -1,0 +1,1 @@
+# no-try-catch-hell
